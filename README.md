@@ -1,0 +1,2 @@
+# Employee_Registration_Angular_App
+Employee_Registration_Angular crud using json server 
